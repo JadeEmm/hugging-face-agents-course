@@ -7,8 +7,7 @@ It integrates various tools, including:
 ✅ **Image Generation** – Uses a text-to-image model from Hugging Face  
 ✅ **Custom AI Model** – Powered by an external Hugging Face API endpoint  
 
-## 🚀 Live Demo
-Access the app here:  
+## 🚀 Access the app here:  
 🔗 **[AI Agent on Hugging Face](https://huggingface.co/spaces/Jade-E/First_agent_template)**  
 
 ---
