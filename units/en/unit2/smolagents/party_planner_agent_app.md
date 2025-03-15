@@ -2,7 +2,7 @@
 
 **An AI-powered assistant designed to suggest creative party ideas and help with event planning.**
 
-This project leverages agent-based tools to generate customized party themes, suggest menus, and recommend catering services, making it easier to plan unique and exciting events. Powered by the Qwen model from Hugging Face, this tool is perfect for anyone looking to organize a themed party with ease.
+This project leverages agent-based tools to generate customised party themes, suggest menus, and recommend catering services, making it easier to plan unique and exciting events. Powered by Qwen/Qwen2.5-Coder-32B-Instruct and HfApiModel , this tool is perfect for anyone looking to organise a themed party with ease.
 
 ### Features:
 - **Party Theme Generator**: Generates creative party themes like "Classic Hollywood," "Glamour Masquerade," and "Futuristic City."
